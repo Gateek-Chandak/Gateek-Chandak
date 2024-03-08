@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning HTML and CSS frameworks
 - 📫 How to reach me: mobile - 647-642-0609  email - chandakgateek@gmail.com
 
+Checkout my resume attached above!
+
 <!---
 Gateek-Chandak/Gateek-Chandak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
