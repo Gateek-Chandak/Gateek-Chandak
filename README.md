@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Gateek-Chandak
 - 📕 I am a Math/CS student at the University of Waterloo! Currently at the end of my first year.
-- 👀 I’m interested in Software Engineering, Web-Design, and Object-Oriented Programming
-- 🌱 I’m currently learning HTML and CSS frameworks
+- 👀 I’m interested in Game Design, Software Engineering, Web-Design, and Object-Oriented Programming
+- 🌱 I’m currently learning Front End Frameworks, and SQL
 - 📫 How to reach me: mobile - 647-642-0609  email - chandakgateek@gmail.com
 
-Checkout my resume attached above!
+Checkout my resume attached below under Gateek-Chandak
 
 <!---
 Gateek-Chandak/Gateek-Chandak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
