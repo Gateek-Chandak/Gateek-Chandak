@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gateek-Chandak
-- 📕 I am a Computer Science and Finance student at the University of Waterloo! Currently at the end of my first year.
-- 👀 I’m interested in Game Design, Software Engineering, Web-Design, and Object-Oriented Programming
-- 🌱 I’m currently learning Front End Frameworks, and SQL
+- 📕 I am a Computer Science and Finance student at the University of Waterloo!
+- 👀 I’m interested in Full-Stack Development, Software Engineering, and AI/ML
 - 📫 How to reach me: mobile - 647-642-0609  email - chandakgateek@gmail.com
 
 Checkout my resume attached below under Gateek-Chandak
